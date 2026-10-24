@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm <a href="https://github.com/CurranXMatte">Curran</a> 👋</h1>
 
 <p align="center">
-  <b>Developer • Automation & Community Systems • Open Source</b><br>
+  <b>Vibecoder.</b><br>
 </p>
 
 ---
