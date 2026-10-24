@@ -6,9 +6,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=CurranXMatte&label=Profile%20Views&countColor=%232563eb&style=flat-square" alt="Profile views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=CurranXMatte)
 
 ### 👨‍💻 About Me
 I build and optimize things, making the most out of my tools. Passionate about Python, backend automation, Telegram algorithms, reverse engineering APIs, and community data modeling.
