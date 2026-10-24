@@ -20,6 +20,11 @@ I build and optimize things, making the most out of my tools. Passionate about P
 
 ---
 
+### 🌐 Open Source Contributions
+- ⚽ **[soccerdata (PR #988)](https://github.com/probberechts/soccerdata/pull/988)** – Fixed localized season stage extraction on WhoScored for non-English locales (resolves issue #974).
+
+---
+
 ### 🚀 Tech & Skills
 - **Languages:** Python, Java, JavaScript, Lua
 - **Focus:** Automation, Bot Engines, Data Analysis, Reverse Engineering
