@@ -14,7 +14,7 @@ I build and optimize things, making the most out of my tools. Passionate about P
 ---
 
 ### 🛠️ My projects
-- 🤖 **[Humans as Curran's Idea](https://github.com/CurranXMatte/humans-as-currans-idea)** – Behavioral & heuristic engine for Telegram community bots, calibrated on over 45k real messages to simulate authentic human interactions across 5 distinct psychological archetypes.
+- 🤖 **[Humans as Curran's Idea](https://github.com/CurranXMatte/humans-as-currans-idea)** – Behavioral & heuristic engine and REST API for Telegram community bots, calibrated on over 45k real messages to simulate authentic human interactions across 5 distinct psychological archetypes ([Live API Docs](https://humans-as-currans-idea.vercel.app/docs)).
   - ⚡ **[Channel Context Parser](https://github.com/CurranXMatte/humans-as-currans-idea#-parser-intelligente-dei-post-di-canale)** – Intelligent event extractor for sports channels parsing real-time live goals, lineups, injuries, and match dynamics.
   - 📊 **[Telegram Data Analytics](https://github.com/CurranXMatte/humans-as-currans-idea#-i-numeri-dellinterazione-umana-reale-dataset-da-oltre-45-mila-messaggi)** – Statistical modeling, n-gram extraction, and natural conversational heuristics.
 
